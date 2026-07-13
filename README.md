@@ -1,16 +1,32 @@
-## Hi there 👋
+# Simo Howaanaa
 
-<!--
-**simohowaanaa/simohowaanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiant en cybersécurité — Sécurité défensive & SOC**
 
-Here are some ideas to get you started:
+Actuellement en stage au sein du SOC de **Dataprotect**, où je travaille sur la
+détection d'attaques Active Directory : documentation des techniques d'attaque,
+simulation en environnement de test, et développement d'un agent d'IA de détection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Domaines
+- Sécurité défensive (Blue Team) — détection d'intrusion, analyse de logs
+- Active Directory — attaques et détection
+- IA appliquée à la détection de menaces
+
+### Compétences techniques
+- **Langages** : Python, Bash, PowerShell
+- **Systèmes** : Windows / Active Directory, Linux
+- **Outils** : SIEM, analyse de logs, [ajoute Splunk / ELK / Wazuh...]
+
+### Projets
+- **Détection d'attaques Active Directory** — documentation, simulation et
+  agent IA de détection (stage Dataprotect)
+- [Autre projet — nom + une ligne de description]
+
+### Formation & certifications
+- [Diplôme — établissement, année]
+- [Certification — ex. eJPT, Security+, ...]
+
+### Contact
+- Email : simohowaanaa@gmail.com
+- LinkedIn : [ton-lien-linkedin]
