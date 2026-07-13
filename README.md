@@ -1,4 +1,4 @@
-# Simo Howaanaa
+# Maimouni Mohammed - simohowaana
 
 **Étudiant en cybersécurité — Sécurité défensive & SOC**
 
