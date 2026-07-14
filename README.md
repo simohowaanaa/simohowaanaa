@@ -69,4 +69,4 @@ détection d'intrusion et l'analyse de menaces.
 ## 📫 Contact
 
 - 📧 **Email** : simohowaanaa@gmail.com
-- 💼 **LinkedIn** : *[à compléter]*
+- 💼 **LinkedIn** : [mohammed-maimouni](https://www.linkedin.com/in/mohammed-maimouni/)
