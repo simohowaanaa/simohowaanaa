@@ -1,4 +1,4 @@
-<h1 align="center">👋 Maimouni Mohammed</h1>
+<h1 align="center">Maimouni Mohammed</h1>
 <p align="center">
   <b>Étudiant en cybersécurité — Sécurité défensive & SOC (Blue Team)</b>
 </p>
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛡️ À propos
+## À propos
 
 Actuellement en **stage au SOC de Dataprotect**, où je travaille sur la
 **détection d'attaques Active Directory** :
@@ -25,17 +25,17 @@ détection d'intrusion et l'analyse de menaces.
 
 ---
 
-## 🎯 Domaines
+## Domaines
 
-- 🔵 **Sécurité défensive (Blue Team)** — détection d'intrusion, analyse de logs
-- 🏢 **Active Directory** — attaques & détection
-- 🤖 **IA appliquée** à la détection de menaces
-- 🌐 **Network & Email forensics** — analyse de trafic, phishing
-- 🕵️ **Threat Intelligence (CTI) / OSINT** — veille dark web, environnement Tor isolé
+- **Sécurité défensive (Blue Team)** — détection d'intrusion, analyse de logs
+- **Active Directory** — attaques & détection
+- **IA appliquée** à la détection de menaces
+- **Network & Email forensics** — analyse de trafic, phishing
+- **Threat Intelligence (CTI) / OSINT** — veille dark web, environnement Tor isolé
 
 ---
 
-## 🧰 Compétences techniques
+## Compétences techniques
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -53,33 +53,33 @@ détection d'intrusion et l'analyse de menaces.
 
 ---
 
-## 📂 Projets & Write-ups
+## Projets & Write-ups
 
-- 🏢 **Détection d'attaques Active Directory** — documentation, simulation et
+- **Détection d'attaques Active Directory** — documentation, simulation et
   agent IA de détection *(stage Dataprotect)*
-- 🧪 **[LetsDefend-Writeups](https://github.com/simohowaanaa/LetsDefend-Writeups)** —
+- **[LetsDefend-Writeups](https://github.com/simohowaanaa/LetsDefend-Writeups)** —
   mes write-ups de challenges SOC / Blue Team (phishing, forensics réseau, DFIR…)
-- 📚 **[soc-analyst-learning-path](https://github.com/simohowaanaa/soc-analyst-learning-path)** —
+- **[soc-analyst-learning-path](https://github.com/simohowaanaa/soc-analyst-learning-path)** —
   mes notes personnelles du parcours SOC Analyst (LetsDefend)
-- 🕵️ **[darknet-analyst-lab](https://github.com/simohowaanaa/darknet-analyst-lab)** —
+- **[darknet-analyst-lab](https://github.com/simohowaanaa/darknet-analyst-lab)** —
   mise en place d'un environnement d'analyse darknet sécurisé (Whonix + Tor) pour
   la veille CTI : isolation réseau, vérification cryptographique, workflow d'analyste
-- 💥 **[CupidStrike](https://github.com/simohowaanaa/CupidStrike-Reversible-Desktop-Hijack-Payload)** —
+- **[CupidStrike](https://github.com/simohowaanaa/CupidStrike-Reversible-Desktop-Hijack-Payload)** —
   PoC red team / éducatif en Python : payload de détournement de bureau réversible
   *(usage en laboratoire uniquement)*
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=simohowaanaa&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simohowaanaa&layout=compact&theme=tokyonight&hide_border=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=simohowaanaa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simohowaanaa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800">
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 **Email** : simohowaanaa@gmail.com
-- 💼 **LinkedIn** : [mohammed-maimouni](https://www.linkedin.com/in/mohammed-maimouni/)
+- **Email** : simohowaanaa@gmail.com
+- **LinkedIn** : [mohammed-maimouni](https://www.linkedin.com/in/mohammed-maimouni/)
