@@ -70,15 +70,26 @@ détection d'intrusion et l'analyse de menaces.
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/simohowaanaa?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Public-2b6cb0?style=flat-square&logo=github&logoColor=white">
-  </a>
   <img src="https://img.shields.io/github/followers/simohowaanaa?style=flat-square&logo=github&logoColor=white&label=Followers&color=4a5568">
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20SOC-6b46c1?style=flat-square">
+  <img src="https://img.shields.io/github/stars/simohowaanaa?style=flat-square&logo=github&logoColor=white&label=Stars&color=2b6cb0">
+  <img src="https://img.shields.io/badge/Repos-6-6b46c1?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20SOC-1a202c?style=flat-square">
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=simohowaanaa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D">
+</p>
+
+### Langages principaux
+
+| Langage | Part |
+|---|---|
+| Python | 75 % |
+| Shell / Bash | 23 % |
+| VBScript | 2 % |
 
 ---
 
