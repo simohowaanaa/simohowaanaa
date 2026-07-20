@@ -55,13 +55,18 @@ détection d'intrusion et l'analyse de menaces.
 
 ## 📂 Projets & Write-ups
 
-- 🧪 **[LetsDefend-Writeups](https://github.com/simohowaanaa/LetsDefend-Writeups)** —
-  Mes write-ups de challenges SOC / Blue Team (phishing, forensics réseau, DFIR…)
 - 🏢 **Détection d'attaques Active Directory** — documentation, simulation et
   agent IA de détection *(stage Dataprotect)*
+- 🧪 **[LetsDefend-Writeups](https://github.com/simohowaanaa/LetsDefend-Writeups)** —
+  mes write-ups de challenges SOC / Blue Team (phishing, forensics réseau, DFIR…)
+- 📚 **[soc-analyst-learning-path](https://github.com/simohowaanaa/soc-analyst-learning-path)** —
+  mes notes personnelles du parcours SOC Analyst (LetsDefend)
 - 🕵️ **[darknet-analyst-lab](https://github.com/simohowaanaa/darknet-analyst-lab)** —
-  Mise en place d'un environnement d'analyse darknet sécurisé (Whonix + Tor) pour
+  mise en place d'un environnement d'analyse darknet sécurisé (Whonix + Tor) pour
   la veille CTI : isolation réseau, vérification cryptographique, workflow d'analyste
+- 💥 **[CupidStrike](https://github.com/simohowaanaa/CupidStrike-Reversible-Desktop-Hijack-Payload)** —
+  PoC red team / éducatif en Python : payload de détournement de bureau réversible
+  *(usage en laboratoire uniquement)*
 
 ---
 
