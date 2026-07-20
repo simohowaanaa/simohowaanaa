@@ -70,11 +70,14 @@ détection d'intrusion et l'analyse de menaces.
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=simohowaanaa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simohowaanaa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800">
+  <a href="https://github.com/simohowaanaa?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Public-2b6cb0?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/github/followers/simohowaanaa?style=flat-square&logo=github&logoColor=white&label=Followers&color=4a5568">
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20SOC-6b46c1?style=flat-square">
 </p>
 
 ---
