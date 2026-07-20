@@ -73,26 +73,24 @@ détection d'intrusion et l'analyse de menaces.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/simohowaanaa?style=flat-square&logo=github&logoColor=white&label=Followers&color=4a5568">
-  <img src="https://img.shields.io/github/stars/simohowaanaa?style=flat-square&logo=github&logoColor=white&label=Stars&color=2b6cb0">
-  <img src="https://img.shields.io/badge/Repos-6-6b46c1?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20SOC-1a202c?style=flat-square">
+  <img src="https://img.shields.io/github/followers/simohowaanaa?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=1a202c&labelColor=2b6cb0">
+  <img src="https://img.shields.io/github/stars/simohowaanaa?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=1a202c&labelColor=6b46c1">
+  <img src="https://img.shields.io/badge/REPOS-6-1a202c?style=for-the-badge&logo=github&logoColor=white&labelColor=4a5568">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=simohowaanaa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <img src="https://streak-stats.demolab.com/?user=simohowaanaa&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D">
 </p>
 
-### Langages principaux
+<h3 align="center">Langages principaux</h3>
 
-| Langage | Part |
-|---|---|
-| Python | 75 % |
-| Shell / Bash | 23 % |
-| VBScript | 2 % |
+```text
+Python         ███████████████░░░░░   75 %
+Shell / Bash   █████░░░░░░░░░░░░░░░   23 %
+VBScript       █░░░░░░░░░░░░░░░░░░░    2 %
+```
 
 ---
-
 ## Contact
 
 - **Email** : simohowaanaa@gmail.com
