@@ -10,6 +10,16 @@
   <img src="https://img.shields.io/badge/CTI-Dark%20Web%20Monitoring-1a202c?style=flat-square">
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-maimouni/">
+    <img src="https://img.shields.io/badge/LinkedIn-mohammed--maimouni-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:simohowaanaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-simohowaanaa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=simohowaanaa&style=flat-square&color=2b6cb0&label=Profile+Views">
+</p>
+
 ---
 
 ## À propos
@@ -55,8 +65,9 @@ détection d'intrusion et l'analyse de menaces.
 
 ## Projets & Write-ups
 
-- **Détection d'attaques Active Directory** — documentation, simulation et
-  agent IA de détection *(stage Dataprotect)*
+- **[ai-driven-ad-attack-detection](https://github.com/simohowaanaa/ai-driven-ad-attack-detection)** —
+  détection d'attaques Active Directory pilotée par IA : documentation, simulation
+  d'attaques et agent de détection *(stage Dataprotect)*
 - **[LetsDefend-Writeups](https://github.com/simohowaanaa/LetsDefend-Writeups)** —
   mes write-ups de challenges SOC / Blue Team (phishing, forensics réseau, DFIR…)
 - **[soc-analyst-learning-path](https://github.com/simohowaanaa/soc-analyst-learning-path)** —
@@ -70,27 +81,19 @@ détection d'intrusion et l'analyse de menaces.
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/simohowaanaa?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=1a202c&labelColor=2b6cb0">
-  <img src="https://img.shields.io/github/stars/simohowaanaa?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=1a202c&labelColor=6b46c1">
-  <img src="https://img.shields.io/badge/REPOS-6-1a202c?style=for-the-badge&logo=github&logoColor=white&labelColor=4a5568">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=simohowaanaa&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simohowaanaa&layout=compact&hide_border=true&theme=tokyonight&langs_count=6">
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=simohowaanaa&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D">
 </p>
 
-<h3 align="center">Langages principaux</h3>
-
-```text
-Python         ███████████████░░░░░   75 %
-Shell / Bash   █████░░░░░░░░░░░░░░░   23 %
-VBScript       █░░░░░░░░░░░░░░░░░░░    2 %
-```
-
 ---
+
 ## Contact
 
 - **Email** : simohowaanaa@gmail.com
