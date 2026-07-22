@@ -91,6 +91,14 @@ détection d'intrusion et l'analyse de menaces.
   <img src="https://streak-stats.demolab.com/?user=simohowaanaa&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simohowaanaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simohowaanaa&theme=tokyo-night&hide_border=true&area=true">
+</p>
+
 ---
 
 ## Contact
