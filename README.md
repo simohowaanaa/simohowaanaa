@@ -17,7 +17,6 @@
   <a href="mailto:simohowaanaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-simohowaanaa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=simohowaanaa&style=flat-square&color=2b6cb0&label=Profile+Views">
 </p>
 
 ---
