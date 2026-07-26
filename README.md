@@ -71,6 +71,8 @@ détection d'intrusion et l'analyse de menaces.
   mes write-ups de challenges SOC / Blue Team (phishing, forensics réseau, DFIR…)
 - **[soc-analyst-learning-path](https://github.com/simohowaanaa/soc-analyst-learning-path)** —
   mes notes personnelles du parcours SOC Analyst (LetsDefend)
+- **[dfir-learning-path](https://github.com/simohowaanaa/dfir-learning-path)** —
+  mon parcours d'apprentissage DFIR (Digital Forensics & Incident Response)
 - **[darknet-analyst-lab](https://github.com/simohowaanaa/darknet-analyst-lab)** —
   mise en place d'un environnement d'analyse darknet sécurisé (Whonix + Tor) pour
   la veille CTI : isolation réseau, vérification cryptographique, workflow d'analyste
