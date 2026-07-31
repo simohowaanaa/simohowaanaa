@@ -78,7 +78,7 @@ détection d'intrusion et l'analyse de menaces.
   la veille CTI : isolation réseau, vérification cryptographique, workflow d'analyste
 - **[CupidStrike](https://github.com/simohowaanaa/CupidStrike-Reversible-Desktop-Hijack-Payload)** —
   PoC red team / éducatif en Python : payload de détournement de bureau réversible
-  *(usage en laboratoire uniquement)*
+
 
 ---
 
