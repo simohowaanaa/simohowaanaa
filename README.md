@@ -24,7 +24,7 @@
 ## À propos
 
 Actuellement en **stage au SOC de Dataprotect**, où je travaille sur la
-**détection d'attaques Active Directory** :
+**détection d'attaques Active Directory (AD)** :
 - documentation des techniques d'attaque,
 - simulation en environnement de test,
 - développement d'un **agent d'IA de détection**.
