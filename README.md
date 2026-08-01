@@ -37,6 +37,9 @@ détection d'intrusion et l'analyse de menaces.
 ## Domaines
 
 - **Sécurité défensive (Blue Team)** — détection d'intrusion, analyse de logs
+- **Analyse de malware & Reverse Engineering** — désobfuscation, analyse de binaires (Ghidra)
+- **DFIR / Forensics** — disque (MFT), mémoire, réseau (PCAP), VoIP
+- **Detection Engineering** — règles Sigma, mapping MITRE ATT&CK
 - **Active Directory** — attaques & détection
 - **IA appliquée** à la détection de menaces
 - **Network & Email forensics** — analyse de trafic, phishing
@@ -54,11 +57,14 @@ détection d'intrusion et l'analyse de menaces.
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-2C6EBB?style=flat-square&logo=virtualbox&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-red?style=flat-square)
+![CyberChef](https://img.shields.io/badge/CyberChef-orange?style=flat-square)
 
 - **Langages** : Python, Bash, PowerShell
 - **Systèmes** : Windows / Active Directory, Linux
+- **Analyse & Reverse** : Wireshark, Ghidra, CyberChef, PdfStreamDumper, Volatility, MFTECmd
+- **Détection** : SIEM, Sigma, MITRE ATT&CK, VirusTotal
 - **Virtualisation & OSINT** : VirtualBox, Whonix, Tor, GnuPG
-- **Outils** : SIEM, analyse de logs, Wireshark, VirusTotal
 
 ---
 
@@ -68,7 +74,9 @@ détection d'intrusion et l'analyse de menaces.
   détection d'attaques Active Directory pilotée par IA : documentation, simulation
   d'attaques et agent de détection *(stage Dataprotect)*
 - **[LetsDefend-Writeups](https://github.com/simohowaanaa/LetsDefend-Writeups)** —
-  mes write-ups de challenges SOC / Blue Team (phishing, forensics réseau, DFIR…)
+  write-ups de challenges SOC / Blue Team : phishing, forensics réseau (PCAP, VoIP,
+  port scan), analyse de malware (PowerShell, PDF, reverse engineering), DFIR disque
+  (MFT) et detection engineering (Sigma)
 - **[soc-analyst-learning-path](https://github.com/simohowaanaa/soc-analyst-learning-path)** —
   mes notes personnelles du parcours SOC Analyst (LetsDefend)
 - **[dfir-learning-path](https://github.com/simohowaanaa/dfir-learning-path)** —
