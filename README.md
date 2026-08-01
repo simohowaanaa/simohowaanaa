@@ -1,6 +1,9 @@
 <h1 align="center">Maimouni Mohammed</h1>
+
 <p align="center">
-  <b>Étudiant en cybersécurité — Sécurité défensive & SOC (Blue Team)</b>
+  <a href="https://github.com/simohowaanaa">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2B6CB0&center=true&vCenter=true&width=700&lines=%C3%89tudiant+en+cybers%C3%A9curit%C3%A9;Blue+Team+%2F+SOC+Analyst;Malware+Analysis+%26+Reverse+Engineering;DFIR+%26+Detection+Engineering;Threat+Intelligence+%26+OSINT" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
