@@ -80,15 +80,18 @@ détection d'intrusion et l'analyse de menaces.
   write-ups de challenges SOC / Blue Team : phishing, forensics réseau (PCAP, VoIP,
   port scan), analyse de malware (PowerShell, PDF, reverse engineering), DFIR disque
   (MFT) et detection engineering (Sigma)
-- **[soc-analyst-learning-path](https://github.com/simohowaanaa/soc-analyst-learning-path)** —
-  mes notes personnelles du parcours SOC Analyst (LetsDefend)
-- **[dfir-learning-path](https://github.com/simohowaanaa/dfir-learning-path)** —
-  mon parcours d'apprentissage DFIR (Digital Forensics & Incident Response)
+- **[100-Days-of-Blue-Team](https://github.com/simohowaanaa/100-Days-of-Blue-Team)** —
+  100 labs Blue Team consacrés au forensic réseau et mémoire, à la threat intelligence
+  et à l'analyse de malware
+- **[sbtx-active-directory-multisites](https://github.com/simohowaanaa/sbtx-active-directory-multisites)** —
+  projet de stage : infrastructure Active Directory multi-sites sécurisée pour SBTX
 - **[darknet-analyst-lab](https://github.com/simohowaanaa/darknet-analyst-lab)** —
   mise en place d'un environnement d'analyse darknet sécurisé (Whonix + Tor) pour
   la veille CTI : isolation réseau, vérification cryptographique, workflow d'analyste
 - **[CupidStrike](https://github.com/simohowaanaa/CupidStrike-Reversible-Desktop-Hijack-Payload)** —
   PoC red team / éducatif en Python : payload de détournement de bureau réversible
+- **[offensive-labs-writeups](https://github.com/simohowaanaa/offensive-labs-writeups)** —
+  collection de write-ups de labs offensifs
 
 
 ---
