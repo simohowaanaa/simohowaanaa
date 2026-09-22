@@ -123,27 +123,6 @@ de février 2027**, orienté SOC, détection, audit de vulnérabilités ou GRC.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=simohowaanaa&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simohowaanaa&layout=compact&hide_border=true&theme=tokyonight&langs_count=6">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=simohowaanaa&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simohowaanaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simohowaanaa&theme=tokyo-night&hide_border=true&area=true">
-</p>
-
----
-
 ## Contact
 
 - **Email** : simohammed.maimouni@gmail.com
