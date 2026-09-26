@@ -91,30 +91,16 @@ de février 2027**, orienté SOC, détection, audit de vulnérabilités ou GRC.
 
 ## Projets & Write-ups
 
-- **[Réponse à incident cyber — AtlasGrid](https://github.com/simohowaanaa/reponse-a-incident-cyber)** —
-  étude de cas de gestion de crise cyber réalisée dans le cadre de l'exercice KASBAH :
-  qualification des preuves et fausses pistes, reconstitution de la chaîne d'incident,
-  décisions de continuité et plan de reprise.
-- **[ai-driven-ad-attack-detection](https://github.com/simohowaanaa/ai-driven-ad-attack-detection)** —
-  détection d'attaques Active Directory pilotée par IA : simulations de
-  Kerberoasting, Pass-the-Hash et DCSync, investigation et réduction du bruit d'alertes
-  *(stage Dataprotect)*
-- **[LetsDefend-Writeups](https://github.com/simohowaanaa/LetsDefend-Writeups)** —
-  write-ups de challenges SOC / Blue Team : phishing, forensics réseau (PCAP, VoIP,
-  port scan), analyse de malware (PowerShell, PDF, reverse engineering), DFIR disque
-  (MFT) et detection engineering (Sigma)
-- **[100-Days-of-Blue-Team](https://github.com/simohowaanaa/100-Days-of-Blue-Team)** —
-  100 labs Blue Team consacrés au forensic réseau et mémoire, à la threat intelligence
-  et à l'analyse de malware
-- **[sbtx-active-directory-multisites](https://github.com/simohowaanaa/sbtx-active-directory-multisites)** —
-  projet de stage : infrastructure Active Directory multi-sites sécurisée pour SBTX
-- **[darknet-analyst-lab](https://github.com/simohowaanaa/darknet-analyst-lab)** —
-  mise en place d'un environnement d'analyse darknet sécurisé (Whonix + Tor) pour
-  la veille CTI : isolation réseau, vérification cryptographique, workflow d'analyste
-- **[CupidStrike](https://github.com/simohowaanaa/CupidStrike-Reversible-Desktop-Hijack-Payload)** —
-  PoC red team / éducatif en Python : payload de détournement de bureau réversible
-- **[offensive-labs-writeups](https://github.com/simohowaanaa/offensive-labs-writeups)** —
-  collection de write-ups de labs offensifs
+| Projet | Description | Compétences mises en avant |
+| --- | --- | --- |
+| **[Réponse à incident cyber — AtlasGrid](https://github.com/simohowaanaa/reponse-a-incident-cyber)** | Étude de cas de gestion de crise cyber : qualification des preuves et fausses pistes, reconstitution de la chaîne d'incident, décisions de continuité et plan de reprise. | Réponse à incident, DFIR, continuité d'activité, communication de crise |
+| **[AI-Driven AD Attack Detection](https://github.com/simohowaanaa/ai-driven-ad-attack-detection)** | Simulations Kerberoasting, Pass-the-Hash et DCSync, puis investigation et réduction du bruit d'alertes dans un contexte SOC. | Active Directory, détection, Python, SOC, machine learning |
+| **[LetsDefend Write-ups](https://github.com/simohowaanaa/LetsDefend-Writeups)** | Analyses de phishing, PCAP, VoIP, malware, DFIR disque et règles Sigma à partir de challenges Blue Team. | Triage, forensics, analyse de malware, detection engineering |
+| **[100 Days of Blue Team](https://github.com/simohowaanaa/100-Days-of-Blue-Team)** | Parcours de 100 laboratoires consacrés au forensic réseau et mémoire, à la threat intelligence et à l'analyse de malware. | Blue Team, DFIR, threat intelligence |
+| **[Active Directory multi-sites](https://github.com/simohowaanaa/sbtx-active-directory-multisites)** | Conception d'une infrastructure Active Directory multi-sites sécurisée pour un environnement d'entreprise. | Active Directory, réseau, durcissement, administration système |
+| **[Darknet Analyst Lab](https://github.com/simohowaanaa/darknet-analyst-lab)** | Environnement d'analyse sécurisé pour la veille CTI avec Whonix et Tor, centré sur l'isolation et la vérification cryptographique. | CTI, OSINT, isolation réseau, investigation |
+| **[CupidStrike](https://github.com/simohowaanaa/CupidStrike-Reversible-Desktop-Hijack-Payload)** | Preuve de concept éducative en Python de détournement de bureau, conçue pour être réversible. | Python, sécurité offensive, sensibilisation aux risques |
+| **[Offensive Labs Write-ups](https://github.com/simohowaanaa/offensive-labs-writeups)** | Collection documentée de laboratoires offensifs et de leurs retours techniques. | Pentest, méthodologie, documentation technique |
 
 ---
 
