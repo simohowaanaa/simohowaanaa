@@ -91,6 +91,10 @@ de février 2027**, orienté SOC, détection, audit de vulnérabilités ou GRC.
 
 ## Projets & Write-ups
 
+- **[Réponse à incident cyber — AtlasGrid](https://github.com/simohowaanaa/reponse-a-incident-cyber)** —
+  étude de cas de gestion de crise cyber réalisée dans le cadre de l'exercice KASBAH :
+  qualification des preuves et fausses pistes, reconstitution de la chaîne d'incident,
+  décisions de continuité et plan de reprise.
 - **[ai-driven-ad-attack-detection](https://github.com/simohowaanaa/ai-driven-ad-attack-detection)** —
   détection d'attaques Active Directory pilotée par IA : simulations de
   Kerberoasting, Pass-the-Hash et DCSync, investigation et réduction du bruit d'alertes
