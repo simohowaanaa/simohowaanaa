@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Maimouni Mohammed — ingénieur informatique et cybersécurité</title>
+  <desc id="desc">Bannière de profil dans un style cybersécurité sombre, avec motif de réseau et emblème de bouclier.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071522"/>
+      <stop offset="0.58" stop-color="#0b2030"/>
+      <stop offset="1" stop-color="#102c3b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38e0c1"/>
+      <stop offset="1" stop-color="#2c9fcb"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8bc5d2" stroke-opacity=".08" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.5" fill="#74d9cd" fill-opacity=".2"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <path d="M0 274C195 218 327 330 530 275S877 182 1200 250V320H0Z" fill="#0e3b46" fill-opacity=".45"/>
+  <path d="M0 278C207 224 338 329 534 276S876 190 1200 252" fill="none" stroke="url(#accent)" stroke-opacity=".45" stroke-width="2"/>
+  <g stroke="#53d7c4" stroke-opacity=".5" fill="none">
+    <path d="M810 46l76 38 64-29 72 43 89-35"/>
+    <path d="M887 84l-18 74 98 28 55-64 80 55"/>
+    <path d="M869 158l-61 72 102 40 57-80 104 47"/>
+  </g>
+  <g fill="#43d9c2" filter="url(#glow)">
+    <circle cx="810" cy="46" r="3"/><circle cx="886" cy="84" r="3"/><circle cx="950" cy="55" r="3"/>
+    <circle cx="1022" cy="98" r="3"/><circle cx="1111" cy="63" r="3"/><circle cx="869" cy="158" r="3"/>
+    <circle cx="967" cy="186" r="3"/><circle cx="1022" cy="122" r="3"/><circle cx="1102" cy="177" r="3"/>
+    <circle cx="808" cy="230" r="3"/><circle cx="910" cy="270" r="3"/><circle cx="967" cy="190" r="3"/>
+    <circle cx="1071" cy="237" r="3"/>
+  </g>
+  <g transform="translate(74 65)">
+    <path d="M92 2 166 29v57c0 61-36 103-74 126C54 189 18 147 18 86V29Z" fill="#0b2635" stroke="url(#accent)" stroke-width="4"/>
+    <path d="M92 22 148 42v43c0 45-24 77-56 98-32-21-56-53-56-98V42Z" fill="#102f3e" stroke="#4bd7c3" stroke-opacity=".42" stroke-width="1.5"/>
+    <rect x="65" y="88" width="54" height="42" rx="8" fill="none" stroke="#a8fff0" stroke-width="4"/>
+    <path d="M76 88V75a16 16 0 0 1 32 0v13" fill="none" stroke="#a8fff0" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="92" cy="108" r="4" fill="#a8fff0"/>
+    <path d="M92 112v9" stroke="#a8fff0" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="18" cy="29" r="4" fill="#42ddc2"/>
+    <circle cx="166" cy="29" r="4" fill="#42ddc2"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="286" y="94" fill="#56dbc8" font-size="15" font-weight="700" letter-spacing="4">PROFIL CYBERSÉCURITÉ</text>
+    <text x="282" y="157" fill="#f1f7fa" font-size="43" font-weight="700" letter-spacing=".5">MAIMOUNI MOHAMMED</text>
+    <text x="286" y="201" fill="#c2d7df" font-size="21" font-weight="500">Ingénierie Informatique &amp; Réseaux · EMSI</text>
+    <text x="286" y="240" fill="#70e4d0" font-size="18" font-weight="600">SOC / SecOps  ·  DevSecOps / DevOps  ·  Stage PFE</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#54b9b3" stroke-opacity=".28" stroke-width="2"/>
+</svg>
