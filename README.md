@@ -1,16 +1,15 @@
 <h1 align="center">Maimouni Mohammed</h1>
 
 <p align="center">
-  <a href="https://github.com/simohowaanaa">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2B6CB0&center=true&vCenter=true&width=700&lines=%C3%89tudiant+ing%C3%A9nieur+en+cybers%C3%A9curit%C3%A9;SOC+%2F+SIEM+%2F+Detection+Engineering;Audit+de+vuln%C3%A9rabilit%C3%A9s+%26+Pentest;GRC+%2F+ISO+27001+%2F+Conformit%C3%A9;Active+Directory+%2F+Cloud+%2F+OT" alt="Typing SVG" />
-  </a>
+  <strong>Élève-ingénieur EMSI — Informatique & Réseaux</strong><br>
+  Cybersécurité · SecOps · DevSecOps · Recherche de stage PFE
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20SOC-2b6cb0?style=flat-square">
-  <img src="https://img.shields.io/badge/SIEM-Splunk%20%7C%20ELK%20%7C%20Wazuh-4a5568?style=flat-square">
-  <img src="https://img.shields.io/badge/GRC-ISO%2027001-6b46c1?style=flat-square">
-  <img src="https://img.shields.io/badge/Active%20Directory-Detection%20%26%20Pentest-1a202c?style=flat-square">
+  <img src="https://img.shields.io/badge/Recherche-Stage%20PFE-2b6cb0?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-SecOps%20%7C%20DevSecOps-4a5568?style=flat-square">
+  <img src="https://img.shields.io/badge/SIEM-Wazuh%20%7C%20Elastic-6b46c1?style=flat-square">
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Conteneurs-Azure%20%7C%20Docker-1a202c?style=flat-square">
 </p>
 
 <p align="center">
@@ -18,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-mohammed--maimouni-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:simohammed.maimouni@gmail.com">
-    <img src="https://img.shields.io/badge/Email-simohammed.maimouni@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-simohammed.maimouni%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -26,94 +25,115 @@
 
 ## À propos
 
-Élève-ingénieur en 5e année à l'**EMSI**, spécialisé en cybersécurité et
-infrastructures réseaux. Je combine une expérience opérationnelle en **SOC,
-SIEM et tests d'intrusion** avec une culture de la **gouvernance, du risque et
-de la conformité** (ISC2 GRC et Microsoft SC-900).
+Élève-ingénieur en 5e année à l’**École Marocaine des Sciences de l’Ingénieur (EMSI)**, filière **Ingénierie Informatique & Réseaux**, option **Cybersécurité & Infrastructures Réseaux**. Ma formation couvre le développement logiciel, les réseaux, les systèmes, le cloud, la cybersécurité et les méthodes DevOps.
 
-Mes stages chez **Dataprotect** et **Amendis** m'ont permis de travailler sur
-l'analyse de logs, la détection d'attaques Active Directory, la supervision OT
-et l'investigation d'incidents. Je recherche un **stage PFE de six mois à partir
-de février 2027**, orienté SOC, détection, audit de vulnérabilités ou GRC.
+Mes stages chez **DATAPROTECT** et **Amendis** m’ont permis de pratiquer la détection et l’investigation d’attaques Active Directory, la supervision avec Wazuh, ainsi que la conteneurisation et l’intégration de contrôles de sécurité dans un pipeline CI.
+
+Je recherche un **stage de fin d’études (PFE)** pour contribuer à des projets en cybersécurité, SecOps, DevSecOps, DevOps ou sécurité des infrastructures.
 
 ---
 
-## Parcours
+## Postes ciblés
 
-- **EMSI, Tanger** — Diplôme d'ingénieur en cybersécurité et infrastructures
-  réseaux *(septembre 2022 - juin 2027)*
-- **Dataprotect, Casablanca** — Stage cybersécurité : analyse de logs, détection
-  d'attaques Active Directory, simulations d'attaque et modèle de Machine Learning
-  pour améliorer la détection *(juillet - août 2026)*
-- **Amendis, Tanger** — Stage cybersécurité : mini-SOC pour la supervision OT avec
-  Wazuh, Elastic Stack et Zeek ; centralisation de logs, règles de détection et
-  tests d'intrusion en environnement industriel *(juillet - août 2026)*
+Selon les missions et le niveau junior/stage, je souhaite évoluer vers des postes tels que :
 
----
-
-## Domaines
-
-- **SOC & détection d'incidents** — analyse de logs et d'alertes, triage,
-  qualification, investigation, escalade et réduction des faux positifs
-- **SIEM & EDR** — Splunk, ELK / Elastic Stack, Wazuh, QRadar et Microsoft Sentinel
-- **Audit de vulnérabilités & pentest** — Nmap, Burp Suite, identification et
-  priorisation des risques, recommandations de remédiation
-- **GRC & conformité** — ISO 27001, analyse de risques, SMSI, cadres de sécurité
-  et souveraineté numérique
-- **Infrastructure & réseau** — TCP/IP, DNS, HTTP/HTTPS, firewall, proxy, IDS/IPS,
-  Active Directory et environnements Cloud/OT
-- **Scripting & automatisation** — Python, Bash et PowerShell
+- **Stagiaire PFE SecOps / DevSecOps**
+- **Analyste SOC niveau 1 / Analyste Security Operations junior**
+- **Analyste junior en détection et supervision de sécurité**
+- **Ingénieur DevSecOps junior**
+- **Ingénieur DevOps junior**, orienté CI/CD, conteneurs et sécurité
+- **Analyste junior en gestion des vulnérabilités**
+- **Auditeur sécurité junior / Pentester junior**
+- **Administrateur systèmes et réseaux junior**, orienté sécurité
+- **Analyste GRC junior** — gestion des risques et conformité
+- **Stagiaire sécurité cloud / infrastructure**
 
 ---
 
-## Compétences techniques
+## Expériences de stage
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
+### Stagiaire Analyste SOC — DATAPROTECT
+**Casablanca, hybride · juillet–août 2026**
 
-- **Langages** : Python, Bash, PowerShell
-- **Systèmes** : Windows / Active Directory, Linux
-- **SIEM & supervision** : Splunk, ELK / Elastic Stack, Wazuh, Zeek, QRadar,
-  Microsoft Sentinel, EDR
-- **Audit & détection** : Nmap, Burp Suite, MITRE ATT&CK, analyse de risques,
-  règles de détection et whitelists contextuelles
-- **Infrastructure** : Active Directory, Cloud/OT, firewalls, proxies et IDS/IPS
+Participation à la mise en place d’un laboratoire de détection et d’investigation des menaces Active Directory.
+
+- Déploiement sur Microsoft Azure d’un laboratoire Active Directory basé sur GOAD-Light.
+- Centralisation et analyse de journaux Windows avec Wazuh.
+- Simulation de scénarios d’attaque Active Directory, notamment Kerberoasting, Pass-the-Hash et DCSync.
+- Création de règles de détection basées sur MITRE ATT&CK.
+- Triage d’alertes et investigation de comportements suspects.
+- Expérimentation de Python et Isolation Forest pour repérer des comportements anormaux et réduire les faux positifs.
+
+### Stagiaire IT — Initiation DevSecOps — Amendis
+**Tanger-Tétouan-Al Hoceïma, sur site · juillet–août 2025**
+
+Contribution à un environnement de développement conteneurisé et à un pipeline d’intégration continue intégrant des contrôles de sécurité.
+
+- Création et administration d’images Docker pour un serveur NGINX conteneurisé avec Alpine Linux.
+- Gestion du code source avec Git et GitHub.
+- Mise en place d’un pipeline CI pour automatiser l’intégration et les vérifications.
+- Intégration de Trivy pour analyser les vulnérabilités des images conteneurisées.
+- Configuration de l’environnement Linux et analyse de journaux système.
 
 ---
 
-## Projets & Write-ups
+## Formation
 
-| Projet | Description | Compétences mises en avant |
+### Diplôme d’ingénieur — Ingénierie Informatique & Réseaux
+**EMSI, Tanger · septembre 2022–juin 2027**
+
+**Option : Cybersécurité & Infrastructures Réseaux**
+
+Mon cursus comprend notamment :
+
+- **Développement** : Python, C++, Java, .NET, Angular, React, développement web et mobile.
+- **Génie logiciel** : méthodes agiles, UML, qualité logicielle, DevOps et CI/CD.
+- **Systèmes et cloud** : Linux/Unix, Windows, virtualisation, cloud computing et conteneurs.
+- **Réseaux et cybersécurité** : TCP/IP, sécurité réseau, VPN, forensic, audit et cryptographie appliquée.
+- **Données et IA** : SQL/NoSQL, machine learning, data science et IA appliquée.
+- **Gestion de projets IT** : méthodes de pilotage, travail en équipe et communication.
+
+**Parcours du cycle ingénieur :** cycle commun (S5–S7), puis cycle spécialisé (S8–S9). Le cursus inclut des projets pratiques, des stages et un projet de fin d’études.
+
+---
+
+## Compétences
+
+- **SOC & SecOps** : analyse de journaux et d’alertes, triage, investigation, MITRE ATT&CK, Wazuh, Elastic Stack.
+- **DevSecOps & DevOps** : Git/GitHub, Docker, Linux, CI/CD, Trivy et analyse de vulnérabilités de conteneurs.
+- **Sécurité Active Directory** : investigation, scénarios d’attaque, règles de détection et durcissement.
+- **Réseaux & systèmes** : TCP/IP, Windows, Linux, administration, protocoles et sécurité des infrastructures.
+- **Audit & réponse à incident** : Nmap, Burp Suite, forensic, qualification des risques et recommandations.
+- **Développement & automatisation** : Python, Bash, PowerShell, SQL; bases académiques en C++, Java, .NET, Angular et React.
+- **Cloud & données** : Azure, notions de cloud computing, machine learning et analyse de données.
+
+---
+
+## Projets
+
+| Projet | Description | Axes principaux |
 | --- | --- | --- |
-| **[Réponse à incident cyber — AtlasGrid](https://github.com/simohowaanaa/reponse-a-incident-cyber)** | Étude de cas de gestion de crise cyber : qualification des preuves et fausses pistes, reconstitution de la chaîne d'incident, décisions de continuité et plan de reprise. | Réponse à incident, DFIR, continuité d'activité, communication de crise |
-| **[AI-Driven AD Attack Detection](https://github.com/simohowaanaa/ai-driven-ad-attack-detection)** | Simulations Kerberoasting, Pass-the-Hash et DCSync, puis investigation et réduction du bruit d'alertes dans un contexte SOC. | Active Directory, détection, Python, SOC, machine learning |
-| **[LetsDefend Write-ups](https://github.com/simohowaanaa/LetsDefend-Writeups)** | Analyses de phishing, PCAP, VoIP, malware, DFIR disque et règles Sigma à partir de challenges Blue Team. | Triage, forensics, analyse de malware, detection engineering |
-| **[100 Days of Blue Team](https://github.com/simohowaanaa/100-Days-of-Blue-Team)** | Parcours de 100 laboratoires consacrés au forensic réseau et mémoire, à la threat intelligence et à l'analyse de malware. | Blue Team, DFIR, threat intelligence |
-| **[Active Directory multi-sites](https://github.com/simohowaanaa/sbtx-active-directory-multisites)** | Conception d'une infrastructure Active Directory multi-sites sécurisée pour un environnement d'entreprise. | Active Directory, réseau, durcissement, administration système |
-| **[Darknet Analyst Lab](https://github.com/simohowaanaa/darknet-analyst-lab)** | Environnement d'analyse sécurisé pour la veille CTI avec Whonix et Tor, centré sur l'isolation et la vérification cryptographique. | CTI, OSINT, isolation réseau, investigation |
-| **[CupidStrike](https://github.com/simohowaanaa/CupidStrike-Reversible-Desktop-Hijack-Payload)** | Preuve de concept éducative en Python de détournement de bureau, conçue pour être réversible. | Python, sécurité offensive, sensibilisation aux risques |
-| **[Offensive Labs Write-ups](https://github.com/simohowaanaa/offensive-labs-writeups)** | Collection documentée de laboratoires offensifs et de leurs retours techniques. | Pentest, méthodologie, documentation technique |
+| **[Analyseur d’e-mails de phishing SOC N1](https://github.com/simohowaanaa/soc1-phishing-email-analyzer)** | Outil local d’aide à l’analyse de fichiers .eml : lecture prudente des en-têtes et du texte, repérage d’indices, inventaire des pièces jointes et génération de rapports. | SOC, phishing, Python, analyse sécurisée |
+| **[AI-Driven AD Attack Detection](https://github.com/simohowaanaa/ai-driven-ad-attack-detection)** | Laboratoire de simulation et de détection de scénarios d’attaque Active Directory. | Active Directory, détection, Python, SOC |
+| **[Réponse à incident cyber — AtlasGrid](https://github.com/simohowaanaa/reponse-a-incident-cyber)** | Étude de cas de gestion de crise : qualification des preuves, reconstitution d’incident, continuité d’activité et plan de reprise. | Réponse à incident, DFIR, gestion de crise |
+| **[LetsDefend Write-ups](https://github.com/simohowaanaa/LetsDefend-Writeups)** | Analyses de scénarios Blue Team : phishing, PCAP, malware, forensic et règles Sigma. | Triage, forensic, threat detection |
+| **[100 Days of Blue Team](https://github.com/simohowaanaa/100-Days-of-Blue-Team)** | Parcours de laboratoires autour du forensic réseau et mémoire, de la threat intelligence et de l’analyse de malware. | Blue Team, DFIR, CTI |
+| **[Active Directory multi-sites](https://github.com/simohowaanaa/sbtx-active-directory-multisites)** | Mise en place d’une infrastructure Active Directory multi-sites. | Systèmes, réseaux, Active Directory |
+| **[Darknet Analyst Lab](https://github.com/simohowaanaa/darknet-analyst-lab)** | Environnement isolé pour la veille et l’analyse CTI. | CTI, OSINT, isolation réseau |
+| **[CupidStrike](https://github.com/simohowaanaa/CupidStrike-Reversible-Desktop-Hijack-Payload)** | Preuve de concept éducative en Python, conçue pour illustrer des risques et rester réversible. | Python, sécurité, sensibilisation |
 
 ---
 
-## Certifications
+## Certifications & préparation
 
-- **Foundations of Governance, Risk, and Compliance - ISC2** — certification obtenue
-- **Microsoft SC-900 Exam Preparation and Practice** — certification obtenue
-- **Microsoft SC-200** — préparation en cours : Microsoft Sentinel, investigation
-  et réponse aux incidents
+- **Foundations of Governance, Risk, and Compliance — ISC2**
+- **Microsoft SC-900 Exam Preparation and Practice**
+- **Microsoft SC-200** — préparation en cours : Microsoft Sentinel, investigation et réponse aux incidents
 
 ---
 
 ## Contact
 
-- **Email** : simohammed.maimouni@gmail.com
+- **Email** : [simohammed.maimouni@gmail.com](mailto:simohammed.maimouni@gmail.com)
 - **LinkedIn** : [mohammed-maimouni](https://www.linkedin.com/in/mohammed-maimouni/)
+- **GitHub** : [simohowaanaa](https://github.com/simohowaanaa)
