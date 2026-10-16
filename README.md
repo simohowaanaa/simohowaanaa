@@ -37,14 +37,19 @@ Je recherche un **stage de fin d’études (PFE)** pour contribuer à des projet
 
 Selon les missions et le niveau junior/stage, je souhaite évoluer vers des postes tels que :
 
-- **Stagiaire PFE SecOps / DevSecOps**
-- **Analyste SOC niveau 1 / Analyste Security Operations junior**
+- **Stagiaire PFE en cybersécurité / SecOps / DevSecOps**
+- **Analyste SOC junior / SOC Analyst L1**
+- **Analyste SecOps / Security Operations Analyst junior**
+- **Analyste cybersécurité junior / IT Security Analyst**
+- **Auditeur IT junior / IT Auditor**
+- **Auditeur cybersécurité junior / Auditeur sécurité des systèmes d’information**
 - **Analyste junior en détection et supervision de sécurité**
 - **Ingénieur DevSecOps junior**
 - **Ingénieur DevOps junior**, orienté CI/CD, conteneurs et sécurité
 - **Analyste junior en gestion des vulnérabilités**
-- **Auditeur sécurité junior / Pentester junior**
+- **Pentester junior**
 - **Administrateur systèmes et réseaux junior**, orienté sécurité
+- **Ingénieur sécurité réseau junior**
 - **Analyste GRC junior** — gestion des risques et conformité
 - **Stagiaire sécurité cloud / infrastructure**
 
